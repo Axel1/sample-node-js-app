@@ -1,6 +1,6 @@
 FROM node:latest
 
-LABEL author="Saurabh Dhingra"
+LABEL author="Axel"
 EXPOSE 3000
 
 COPY . /var/www
